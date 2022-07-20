@@ -131,14 +131,11 @@ body {
     margin-right: 10px;
     position: relative;
     left: 145px;
-    bottom: 5px;
-    
-    
+    bottom: 5px;      
 }
 
 .box_tittle {
-    position: relative;
-    
+    position: relative;    
 }
 
 .central__child__top {
@@ -150,6 +147,7 @@ body {
     right: 30px!important;
     padding: 10px;
 }
+
 .box__icon_center {
     width: 50px;
     height: 50px;
@@ -181,6 +179,7 @@ body {
     bottom: 20px;
     left: 8px;
 }
+
 .box_infoSpecial {
     position: relative;
     bottom: 0px;
@@ -293,8 +292,7 @@ body {
         width: 20%;
         height: 80%;
         gap: 3%;
-        align-items: center;
-                
+        align-items: center;                
     }
     
     .main__container__box__central__child {
@@ -334,6 +332,7 @@ body {
         right: 0px!important;
         padding: 10px;
     }
+    
     .box__icon_center {
         width: 50px;
         height: 50px;
@@ -527,6 +526,7 @@ body {
     right: 0px!important;
     padding: 10px;
 }
+    
 .box__icon_center {
     width: 50px;
     height: 50px;
@@ -674,8 +674,7 @@ body {
         width: 20%;
         height: 80%;
         gap: 3%;
-        align-items: center;
-                
+        align-items: center;                
     }
     
     .main__container__box__central__child {
@@ -716,6 +715,7 @@ body {
         right: 0px!important;
         padding: 10px;
     }
+    
     .box__icon_center {
         width: 50px;
         height: 50px;
@@ -910,6 +910,7 @@ body {
         right: 0px!important;
         padding: 10px;
     }
+    
     .box__icon_center {
         width: 50px;
         height: 50px;
