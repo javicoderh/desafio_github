@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(254, 254, 254);            
+    background-color: rgb(30, 142, 198);            
     justify-content: center;
     align-items: center;   
     display:flex;    
@@ -190,7 +190,7 @@ body {
 @media (max-width: 600px) {
 
     body {
-        background-color: rgb(254, 254, 254);            
+        background-color: rgb(30, 142, 198);            
         justify-content: center;
         align-items: center;   
         display:flex;    
@@ -383,7 +383,7 @@ body {
 @media (min-width: 600px) and (max-width: 800px) {
 
 body {
-    background-color: rgb(254, 254, 254);            
+    background-color: rgb(30, 142, 198);            
     justify-content: center;
     align-items: center;   
     display:flex;    
@@ -576,7 +576,7 @@ body {
 
 @media (max-width: 1400px) {
     body {
-        background-color: rgb(254, 254, 254);            
+        background-color: rgb(30, 142, 198);            
         justify-content: center;
         align-items: center;   
         display:flex;    
@@ -760,7 +760,7 @@ body {
 }
 @media (max-width: 500px) {
     body {
-        background-color: rgb(254, 254, 254);            
+        background-color: rgb(30, 142, 198);            
         justify-content: center;
         align-items: center;   
         display:flex;    
